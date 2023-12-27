@@ -1,0 +1,35 @@
+/* Windows 95 by Fergus Collins (https://github.com/C-Fergus) */
+
+.base00-bg { background-color: #000000; }
+.base01-bg { background-color: #1C1C1C; }
+.base02-bg { background-color: #383838; }
+.base03-bg { background-color: #545454; }
+.base04-bg { background-color: #7e7e7e; }
+.base05-bg { background-color: #a8a8a8; }
+.base06-bg { background-color: #d2d2d2; }
+.base07-bg { background-color: #fcfcfc; }
+.base08-bg { background-color: #fc5454; }
+.base09-bg { background-color: #a85400; }
+.base0A-bg { background-color: #fcfc54; }
+.base0B-bg { background-color: #54fc54; }
+.base0C-bg { background-color: #54fcfc; }
+.base0D-bg { background-color: #5454fc; }
+.base0E-bg { background-color: #fc54fc; }
+.base0F-bg { background-color: #00a800; }
+
+.base00 { color: #000000; }
+.base01 { color: #1C1C1C; }
+.base02 { color: #383838; }
+.base03 { color: #545454; }
+.base04 { color: #7e7e7e; }
+.base05 { color: #a8a8a8; }
+.base06 { color: #d2d2d2; }
+.base07 { color: #fcfcfc; }
+.base08 { color: #fc5454; }
+.base09 { color: #a85400; }
+.base0A { color: #fcfc54; }
+.base0B { color: #54fc54; }
+.base0C { color: #54fcfc; }
+.base0D { color: #5454fc; }
+.base0E { color: #fc54fc; }
+.base0F { color: #00a800; }

@@ -1,0 +1,24 @@
+{
+  "name": "base16-styles",
+  "version": "1.0.0",
+  "description": "Base16 Styles\r =============",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abban-Fahim/base16-styles.git"
+  },
+  "author": "Abban Fahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abban-Fahim/base16-styles/issues"
+  },
+  "homepage": "https://github.com/Abban-Fahim/base16-styles#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.7.0",
+    "yaml": "^2.3.4"
+  }
+}

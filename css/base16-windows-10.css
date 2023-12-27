@@ -1,0 +1,35 @@
+/* Windows 10 by Fergus Collins (https://github.com/C-Fergus) */
+
+.base00-bg { background-color: #0c0c0c; }
+.base01-bg { background-color: #2f2f2f; }
+.base02-bg { background-color: #535353; }
+.base03-bg { background-color: #767676; }
+.base04-bg { background-color: #b9b9b9; }
+.base05-bg { background-color: #cccccc; }
+.base06-bg { background-color: #dfdfdf; }
+.base07-bg { background-color: #f2f2f2; }
+.base08-bg { background-color: #e74856; }
+.base09-bg { background-color: #c19c00; }
+.base0A-bg { background-color: #f9f1a5; }
+.base0B-bg { background-color: #16c60c; }
+.base0C-bg { background-color: #61d6d6; }
+.base0D-bg { background-color: #3b78ff; }
+.base0E-bg { background-color: #b4009e; }
+.base0F-bg { background-color: #13a10e; }
+
+.base00 { color: #0c0c0c; }
+.base01 { color: #2f2f2f; }
+.base02 { color: #535353; }
+.base03 { color: #767676; }
+.base04 { color: #b9b9b9; }
+.base05 { color: #cccccc; }
+.base06 { color: #dfdfdf; }
+.base07 { color: #f2f2f2; }
+.base08 { color: #e74856; }
+.base09 { color: #c19c00; }
+.base0A { color: #f9f1a5; }
+.base0B { color: #16c60c; }
+.base0C { color: #61d6d6; }
+.base0D { color: #3b78ff; }
+.base0E { color: #b4009e; }
+.base0F { color: #13a10e; }

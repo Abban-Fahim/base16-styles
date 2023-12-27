@@ -1,0 +1,35 @@
+/* Colors by mrmrs (http://clrs.cc) */
+
+.base00-bg { background-color: #111111; }
+.base01-bg { background-color: #333333; }
+.base02-bg { background-color: #555555; }
+.base03-bg { background-color: #777777; }
+.base04-bg { background-color: #999999; }
+.base05-bg { background-color: #bbbbbb; }
+.base06-bg { background-color: #dddddd; }
+.base07-bg { background-color: #ffffff; }
+.base08-bg { background-color: #ff4136; }
+.base09-bg { background-color: #ff851b; }
+.base0A-bg { background-color: #ffdc00; }
+.base0B-bg { background-color: #2ecc40; }
+.base0C-bg { background-color: #7fdbff; }
+.base0D-bg { background-color: #0074d9; }
+.base0E-bg { background-color: #b10dc9; }
+.base0F-bg { background-color: #85144b; }
+
+.base00 { color: #111111; }
+.base01 { color: #333333; }
+.base02 { color: #555555; }
+.base03 { color: #777777; }
+.base04 { color: #999999; }
+.base05 { color: #bbbbbb; }
+.base06 { color: #dddddd; }
+.base07 { color: #ffffff; }
+.base08 { color: #ff4136; }
+.base09 { color: #ff851b; }
+.base0A { color: #ffdc00; }
+.base0B { color: #2ecc40; }
+.base0C { color: #7fdbff; }
+.base0D { color: #0074d9; }
+.base0E { color: #b10dc9; }
+.base0F { color: #85144b; }

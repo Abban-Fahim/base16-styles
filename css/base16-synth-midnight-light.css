@@ -1,0 +1,35 @@
+/* Synth Midnight Terminal Light by Michaël Ball (http://github.com/michael-ball/) */
+
+.base00-bg { background-color: #dddfe0; }
+.base01-bg { background-color: #cfd1d2; }
+.base02-bg { background-color: #c1c3c4; }
+.base03-bg { background-color: #a3a5a6; }
+.base04-bg { background-color: #474849; }
+.base05-bg { background-color: #28292a; }
+.base06-bg { background-color: #1a1b1c; }
+.base07-bg { background-color: #050608; }
+.base08-bg { background-color: #b53b50; }
+.base09-bg { background-color: #ea770d; }
+.base0A-bg { background-color: #c9d364; }
+.base0B-bg { background-color: #06ea61; }
+.base0C-bg { background-color: #42fff9; }
+.base0D-bg { background-color: #03aeff; }
+.base0E-bg { background-color: #ea5ce2; }
+.base0F-bg { background-color: #cd6320; }
+
+.base00 { color: #dddfe0; }
+.base01 { color: #cfd1d2; }
+.base02 { color: #c1c3c4; }
+.base03 { color: #a3a5a6; }
+.base04 { color: #474849; }
+.base05 { color: #28292a; }
+.base06 { color: #1a1b1c; }
+.base07 { color: #050608; }
+.base08 { color: #b53b50; }
+.base09 { color: #ea770d; }
+.base0A { color: #c9d364; }
+.base0B { color: #06ea61; }
+.base0C { color: #42fff9; }
+.base0D { color: #03aeff; }
+.base0E { color: #ea5ce2; }
+.base0F { color: #cd6320; }

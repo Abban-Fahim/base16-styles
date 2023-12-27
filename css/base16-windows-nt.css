@@ -1,0 +1,35 @@
+/* Windows NT by Fergus Collins (https://github.com/C-Fergus) */
+
+.base00-bg { background-color: #000000; }
+.base01-bg { background-color: #2a2a2a; }
+.base02-bg { background-color: #555555; }
+.base03-bg { background-color: #808080; }
+.base04-bg { background-color: #a1a1a1; }
+.base05-bg { background-color: #c0c0c0; }
+.base06-bg { background-color: #e0e0e0; }
+.base07-bg { background-color: #ffffff; }
+.base08-bg { background-color: #ff0000; }
+.base09-bg { background-color: #808000; }
+.base0A-bg { background-color: #ffff00; }
+.base0B-bg { background-color: #00ff00; }
+.base0C-bg { background-color: #00ffff; }
+.base0D-bg { background-color: #0000ff; }
+.base0E-bg { background-color: #ff00ff; }
+.base0F-bg { background-color: #008000; }
+
+.base00 { color: #000000; }
+.base01 { color: #2a2a2a; }
+.base02 { color: #555555; }
+.base03 { color: #808080; }
+.base04 { color: #a1a1a1; }
+.base05 { color: #c0c0c0; }
+.base06 { color: #e0e0e0; }
+.base07 { color: #ffffff; }
+.base08 { color: #ff0000; }
+.base09 { color: #808000; }
+.base0A { color: #ffff00; }
+.base0B { color: #00ff00; }
+.base0C { color: #00ffff; }
+.base0D { color: #0000ff; }
+.base0E { color: #ff00ff; }
+.base0F { color: #008000; }
